@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "socionics.js",
+  "sourceRoot": "eye-repl",
+  "sources": [
+    "..\\socionics.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,GAAA,EAAA;;CAAA,CAAA,CAAO,CAAP,k7CAAA;;CAAA,CAmBA,CAAA,CAAgB,CAAW,EAApB,EAAK;CACT,EAAD,EAAA,IAA2B,EAA3B;CACG,CAAc,EAAf,GAAA,CAAA,CAAA,CAAA,CAAA,CAAA,CAAA,GAAA,CAAA;CADF,IAA0B;CADD,EAAqB;CAnBhD"
+}
